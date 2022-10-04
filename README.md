@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - [Cloud SIEM](https://github.com/jacob1e/Azure-SIEM)
+- [Rock Paper Scissors Game](https://github.com/jacob1e/Rock-paper-scissors) 
 
 <h2>📃 Certifications</h2>
 
@@ -16,8 +17,7 @@
 
 [linkedin]: https://linkedin.com/in/jacob--smith
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
