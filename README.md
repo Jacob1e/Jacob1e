@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jacob! <br/><a href="https://www.linkedin.com/in/jacob--smith/">Cybersecurity Student</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - [Cloud SIEM](https://github.com/jacob1e/Azure-SIEM)
 
