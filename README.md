@@ -4,7 +4,7 @@
 
 - [Cloud SIEM](https://github.com/jacob1e/Azure-SIEM)
 - [Rock Paper Scissors Game](https://github.com/jacob1e/Rock-paper-scissors) 
-- [Port Scanner Python](https://github.com/jacob1e/Rock-paper-scissors) 
+- [Port Scanner Python]([https://github.com/jacob1e/Rock-paper-scissors](https://github.com/Jacob1e/it3038c-scripts/blob/main/python/portscanner.py) 
 
 <h2>📃 Certifications</h2>
 
