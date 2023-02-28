@@ -1,11 +1,11 @@
 <h1>Hi, I'm Jacob! <br/><a href="https://www.linkedin.com/in/jacob--smith/">Cybersecurity Student</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-
-- [Cloud SIEM](https://github.com/jacob1e/Azure-SIEM)
-- [Rock Paper Scissors Game](https://github.com/jacob1e/Rock-paper-scissors) 
+ 
 - [Port Scanner Python](https://github.com/Jacob1e/it3038c-scripts/blob/main/python/portscanner.py) 
 - [Vulnerabilty Scanner Python](https://github.com/Jacob1e/VulScanner/blob/main/vulscanner.py) 
+- [Cloud SIEM](https://github.com/jacob1e/Azure-SIEM)
+- [Rock Paper Scissors Game](https://github.com/jacob1e/Rock-paper-scissors)
 
 <h2>📃 Certifications</h2>
 
