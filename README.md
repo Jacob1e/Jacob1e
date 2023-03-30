@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Projects:</h2>
  
-- [Port Scanner Python](https://github.com/Jacob1e/it3038c-scripts/blob/main/python/portscanner.py) 
+- [Efficient Python Port Scanner](https://github.com/Jacob1e/PortScanner) 
 - [Vulnerabilty Scanner Python](https://github.com/Jacob1e/VulScanner/blob/main/vulscanner.py) 
 - [Cloud SIEM](https://github.com/jacob1e/Azure-SIEM)
 - [Rock Paper Scissors Game](https://github.com/jacob1e/Rock-paper-scissors)
