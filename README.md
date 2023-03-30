@@ -1,4 +1,5 @@
-<h1>Hi, I'm Jacob! <br/><a href="https://www.linkedin.com/in/jacob--smith/"></a></h1>
+# 👋 Hi there, I'm Jacob!
+
 
 <h2>👨‍💻 Projects:</h2>
  
