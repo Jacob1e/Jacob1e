@@ -16,7 +16,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/Jacob--Smith/)
 
 
 
